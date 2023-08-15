@@ -16,6 +16,8 @@ The dataset used in this study is the "Low Birth Weight Infants" dataset, which 
 * **toxemia**: presence of toxemia, a pregnancy complication
 * **length**: length of infant in inches
 * **sbp**: systolic blood pressure of mother
+* **grmhem**: whether germinal matrix hemorrhage occured( 1 for occured , 0 for not occured)
+* **apgar5**: Apgar score 
 
 # OBJECTIVES 
 In this report, we seek to solve the following problems.
