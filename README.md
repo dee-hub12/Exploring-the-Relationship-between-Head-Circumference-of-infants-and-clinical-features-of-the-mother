@@ -28,3 +28,4 @@ In this report, we seek to solve the following problems.
 
 *	run diagnostics to check whether all residual assumptions have been satisfied by the selected model.
 
+I developed an app that provides insights into the prediction of the headcircumference . The following URL link https://dasante.shinyapps.io/HEADCIRCUMFERENCE/ 
