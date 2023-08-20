@@ -1,5 +1,5 @@
 # Predicting-Head-Circumference-using-clinical-characteristics-of-the-mother-multiple-regression
-Low birth weight infants are at a higher risk for developmental delays and neurological problems, and accurate prediction of their head circumference can aid in early identification of these issues. The following URL link https://dasante.shinyapps.io/HEADCIRCUMFERENCE/  gives more details about an app that I developed at the end of the study. 
+Low birth weight infants are at a higher risk for developmental delays and neurological problems.The following URL link https://dasante.shinyapps.io/HEADCIRCUMFERENCE/ gives more details about an app that I developed at the end of the study. 
 
 # INTRODUCTION
 Head circumference is an important indicator of brain growth in infants and is routinely measured during well-child visits. Low birth weight infants are at a higher risk for developmental delays and neurological problems, and accurate prediction of their head circumference can aid in early identification of these issues. In this study, we aim to develop a multiple linear regression model for predicting the head circumference of low birth weight infants using gestational age, birth weight, length,  sex and various demographic and clinical characteristics of the mother.
